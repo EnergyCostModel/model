@@ -1,0 +1,15 @@
+Release Date,Miner Hardware (Manufacturer),Efficiency (J/TH)
+2009-01-01,CPU Mining (Intel Core i5-650),5000000.0
+2010-10-01,GPU – ATI Radeon HD 5870 (ATI),264550.0
+2011-08-01,FPGA – X6500 Miner (FPGA Mining LLC),43000.0
+2013-01-01,ASIC – AvalonMiner Batch 1 (Canaan),9351.0
+2013-10-01,ASIC – KnC Jupiter (KnCMiner),1500.0
+2013-12-01,ASIC – Antminer U1 USB (Bitmain),1250.0
+2014-12-01,ASIC – Antminer S5 (Bitmain),510.0
+2015-09-01,ASIC – Antminer S7 (Bitmain),250.0
+2016-06-01,ASIC – Antminer S9 (Bitmain),96.0
+2018-04-01,ASIC – Antminer S15 (Bitmain),57.0
+2019-04-01,ASIC – Antminer S17 (Bitmain),40.0
+2020-03-01,ASIC – Antminer S19 Pro (Bitmain),29.5
+2022-07-01,ASIC – Antminer S19 XP (Bitmain),21.0
+2023-08-01,ASIC – Antminer S21 (Bitmain),16.0
